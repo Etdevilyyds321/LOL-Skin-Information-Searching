@@ -1,4 +1,4 @@
-# 英雄联盟皮肤信息查询 LOL-Skin-Information-Searching
+# 英雄联盟皮肤信息查询 LOL Skin Information Searching
 
 一个适用于 Windows 的《英雄联盟》国服皮肤信息查询工具。
 
